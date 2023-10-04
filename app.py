@@ -10,7 +10,7 @@ co = cohere.Client(COHERE_KEY)
 
 def get_response(question):
     preface = """I have included abstracts from recently published articles on arxiv. In a moment, I will add a user question. 
-    Your job is to use the context to answer the questions. Make sure you reference which articles you cite. You should be professional
+    Your job is to use the context to answer the question. Make sure you reference which articles you cite. You should be professional
     and courteous. Please keep your response extremely short and direct. Here is the user's question: \n
     
     """
