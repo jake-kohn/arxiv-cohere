@@ -1,0 +1,226 @@
+Category: quant-ph
+Title: The Convexity Condition of Density-Functional Theory
+Authors: Andrew C. Burgess, Edward Linscott, David D. O'Regan
+Date: 2023-09-29T17:54:43Z
+Abstract:   Based on experimental evidence, it has long been postulated that the total
+energy of a finite electronic system is convex with respect to electron count,
+so that 2 E_v[N_0] <= E_v[N_0 - 1] + E_v[N_0 + 1]. Using the
+infinite-separation-limit technique, this Communication proves the convexity
+condition for any formulation of density-functional theory (DFT) that is (1)
+exact for all v-representable densities, (2) size-consistent, and (3)
+translationally invariant. A corollary to this proof shows that in such
+formulations of DFT, the electron affinity of a finite electronic system is
+always less than or equal to its ionization potential. An analogous result is
+also proven for one-body reduced density matrix functional theory. This proof
+offers a stringent constraint on the exact exchange-correlation functional that
+could aid in the development of density functional approximations. It also
+lifts a standing assumption in the proof of the piecewise linearity condition
+with respect to electron count, which has proven central to understanding the
+Kohn-Sham band-gap and the exchange-correlation derivative discontinuity of
+DFT.
+
+
+Category: hep-th
+Title: Physics with non-unital algebras? An invitation to the Okubo algebra
+Authors: Alessio Marrani, Daniele Corradetti, Francesco Zucconi
+Date: 2023-09-29T17:47:49Z
+Abstract:   This paper discusses the potential application of the Okubonions, i.e. the
+Okubo algebra $\mathcal{O}$, within quantum chromodynamics (QCD). The Okubo
+algebra lacks a unit element and sits in the adjoint representation of its
+automorphism group $\text{SU}(3)_{\mathcal{O}}$, being fundamentally different
+from the better-known octonions $\mathbb{O}$. A physical interpretation is
+proposed in which the Okubonions represent gluons, the gauge bosons of QCD
+$\text{SU}(3)$ color symmetry, while the octonions represent quarks (and color
+singlets). However, it is shown that the respective $\text{SU}(3)$ symmetries
+for Okubonions and octonions are distinct and inequivalent subgroups of
+$\text{Spin}(8)$ that share no common $\text{SU}(2)$ subgroup. The unusual
+properties of Okubonions are suggested as a possible source for peculiar QCD
+phenomena like asymptotic freedom and color confinement, though actual
+mechanisms remain to be investigated.
+
+
+Category: hep-th
+Title: Spinning waveforms from KMOC at leading order
+Authors: Stefano De Angelis, Riccardo Gonzo, Pavel P. Novichkov
+Date: 2023-09-29T17:41:24Z
+Abstract:   We provide the analytic waveform in time domain for the scattering of two
+Kerr black holes at leading order in the post-Minkowskian expansion and up to
+fourth order in both spins. The result is obtained by the generalization of the
+KMOC formalism to radiative observables, combined with the analytic
+continuation of the five-point scattering amplitude to complex kinematics. We
+use analyticity arguments to express the waveform directly in terms of the
+three-point coupling of the graviton to the spinning particles and the
+gravitational Compton amplitudes, completely bypassing the need to compute and
+integrate the five-point amplitude. In particular, this allows to easily
+include higher-order spin contributions for any spinning compact body. Finally,
+in the spinless case we find a new compact and gauge-invariant representation
+of the Kovacs-Thorne waveform.
+
+
+Category: quant-ph
+Title: Momentum-space imaging of ultra-thin electron liquids in delta-doped
+  silicon
+Authors: Procopios Constantinou, Taylor J. Z. Stock, Eleanor Crane, Alexander Kölker, Marcel van Loon, Juerong Li, Sarah Fearn, Henric Bornemann, Nicolò D'Anna, Andrew J. Fisher, Vladimir N. Strocov, Gabriel Aeppli, Neil J. Curson, Steven R. Schofield
+Date: 2023-09-29T17:18:57Z
+Abstract:   Two-dimensional dopant layers ($\delta$-layers) in semiconductors provide the
+high-mobility electron liquids (2DELs) needed for nanoscale quantum-electronic
+devices. Key parameters such as carrier densities, effective masses, and
+confinement thicknesses for 2DELs have traditionally been extracted from
+quantum magnetotransport. In principle, the parameters are immediately readable
+from the one-electron spectral function that can be measured by angle-resolved
+photoemission spectroscopy (ARPES). Here, buried 2DEL $\delta$-layers in
+silicon are measured with soft X-ray (SX) ARPES to obtain detailed information
+about their filled conduction bands and extract device-relevant properties.
+This study takes advantage of the larger probing depth and photon energy range
+of SX-ARPES relative to vacuum ultraviolet (VUV) ARPES to accurately measure
+the $\delta$-layer electronic confinement. The measurements are made on
+ambient-exposed samples and yield extremely thin ($\approx 1$ $nm$) and dense
+($\approx$ $10^{14}$ $cm^2$) 2DELs. Critically, this method is used to show
+that $\delta$-layers of arsenic exhibit better electronic confinement than
+$\delta$-layers of phosphorus fabricated under identical conditions.
+
+
+Category: hep-th
+Title: Thermodynamics with conformal Killing vector in the charged Vaidya
+  metric
+Authors: Seoktae Koh, Miok Park, Abbas M. Sherif
+Date: 2023-09-29T17:00:13Z
+Abstract:   We investigate the charged Vaidya spacetime with conformal symmetry by
+classifying the horizons and finding its connection to Hawking temperature. We
+find a conformal Killing vector whose existence requires the mass and electric
+charge functions to be proportional, as well as linear in time. Solving the
+Killing equations for the conformally transformed metric from the linear
+charged Vaidya metric yields the required form of the conformal factor. From
+the vanishing of the norm of the conformal Killing vector, we find three
+conformal Killing horizons which, under the transformation, are mapped to the
+Killing horizons of the associated static spacetime, if the spherical symmetry
+is maintained. We find that the conformal factor is not uniquely determined,
+but can take any function of the ratio of the radial coordinate to the
+dynamical mass. As an example, we illustrate a static spacetime with our choice
+of the conformal factor and explicitly show that the surface gravity of the
+conformal Killing horizons, which is conformally invariant, yield the expected
+Hawking temperature in the static spacetime. This static black hole spacetime
+contains a cosmological horizon, but it is not asymptotically de Sitter. We
+also investigate the case when the mass parameter is equal to the constant
+electric charge. While in this case the standard pair of horizons, the loci of
+the time component of the metric, degenerate, the conformal Killing horizons do
+not degenerate. This therefore leads to a non-zero Hawking temperature in the
+associated static spacetime.
+
+
+Category: quant-ph
+Title: Topological interfaces crossed by defects and textures of continuous and
+  discrete point group symmetries in spin-2 Bose-Einstein condensates
+Authors: Giuseppe Baio, Matthew T. Wheeler, David S. Hall, Janne Ruostekoski, Magnus O. Borgh
+Date: 2023-09-29T16:56:41Z
+Abstract:   We systematically and analytically construct a set of spinor wave functions
+representing defects and textures that continuously penetrate interfaces
+between coexisting, topologically distinct magnetic phases in a spin-2
+Bose-Einstein condensate. These include singular and nonsingular vortices
+carrying mass or spin circulation that connect across interfaces between
+biaxial- and uniaxial nematic, cyclic and ferromagnetic phases, as well as
+vortices terminating as monopoles on the interface ("boojums"). The
+biaxial-nematic and cyclic phases exhibit discrete polytope symmetries
+featuring non-Abelian vortices and we investigate a pair of non-commuting line
+defects within the context of a topological interface. By numerical
+simulations, we characterize the emergence of non-trivial defect core
+structures, including the formation of composite defects. Our results
+demonstrate the potential of spin-2 Bose-Einstein condensates as experimentally
+accessible platforms for exploring interface physics, offering a wealth of
+combinations of continuous and discrete symmetries.
+
+
+Category: hep-th
+Title: Topological interfaces crossed by defects and textures of continuous and
+  discrete point group symmetries in spin-2 Bose-Einstein condensates
+Authors: Giuseppe Baio, Matthew T. Wheeler, David S. Hall, Janne Ruostekoski, Magnus O. Borgh
+Date: 2023-09-29T16:56:41Z
+Abstract:   We systematically and analytically construct a set of spinor wave functions
+representing defects and textures that continuously penetrate interfaces
+between coexisting, topologically distinct magnetic phases in a spin-2
+Bose-Einstein condensate. These include singular and nonsingular vortices
+carrying mass or spin circulation that connect across interfaces between
+biaxial- and uniaxial nematic, cyclic and ferromagnetic phases, as well as
+vortices terminating as monopoles on the interface ("boojums"). The
+biaxial-nematic and cyclic phases exhibit discrete polytope symmetries
+featuring non-Abelian vortices and we investigate a pair of non-commuting line
+defects within the context of a topological interface. By numerical
+simulations, we characterize the emergence of non-trivial defect core
+structures, including the formation of composite defects. Our results
+demonstrate the potential of spin-2 Bose-Einstein condensates as experimentally
+accessible platforms for exploring interface physics, offering a wealth of
+combinations of continuous and discrete symmetries.
+
+
+Category: quant-ph
+Title: Singular value decomposition quantum algorithm for quantum biology
+Authors: Emily K. Oh, Timothy J. Krogmeier, Anthony W. Schlimgen, Kade Head-Marsden
+Date: 2023-09-29T16:52:10Z
+Abstract:   There has been a recent interest in quantum algorithms for the modelling and
+prediction of non-unitary quantum dynamics using current quantum computers. The
+field of quantum biology is one area where these algorithms could prove to be
+useful, as biological systems are generally intractable to treat in their
+complete form, but amenable to an open quantum systems approach. Here we
+present the application of a recently developed singular value decomposition
+algorithm to two well-studied benchmark systems in quantum biology: excitonic
+energy transport through the Fenna-Matthews-Olson complex and the radical pair
+mechanism for avian navigation. We demonstrate that the singular value
+decomposition algorithm is capable of capturing accurate short- and long-time
+dynamics for these systems through implementation on a quantum simulator, and
+conclude that this algorithm has the potential to be an effective tool for the
+future study of systems relevant to quantum biology.
+
+
+Category: quant-ph
+Title: Quantum Superposition, Collapse of Wave Function, Quantum Measurement
+  and Nonadiabatic Dressed States
+Authors: I. G. Koprinkov
+Date: 2023-09-29T16:27:50Z
+Abstract:   Quantum superposition, collapse of wave function and quantum measurement
+problem are reexamined based on nonadiabatic dressed states and experimental
+observations on the quantum transitions. The physical mechanisms behind these
+processes are revealed.
+
+
+Category: hep-th
+Title: Introduction to noncommutative field and gauge theory
+Authors: Patrizia Vitale, Martina Adamo, Roukaya Dekhil, Diego Fernández-Silvestre
+Date: 2023-09-29T16:17:50Z
+Abstract:   These are lecture notes for an introductory course on noncommutative field
+and gauge theory. We begin by reviewing quantum mechanics as the prototypical
+noncommutative theory, as well as the geometrical language of standard gauge
+theory. Then, we review a specific approach to noncommutative field and gauge
+theory, which relies on the introduction of a derivations-based differential
+calculus. We focus on the cases of constant and linear noncommutativity, e.g.,
+the Moyal spacetime and the so-called $\mathbb{R}^3_\lambda$, respectively. In
+particular, we review the $g\varphi^4$ scalar field theory and the $U(1)$ gauge
+theory on such noncommutative spaces. Finally, we discuss noncommutative
+spacetime symmetries from both the observer and particle point of view. In this
+context, the twist approach is reviewed and the $\lambda$-Minkowski
+$g\varphi^4$ model is discussed.
+
+
+Category: quant-ph
+Title: Machine Learning for Practical Quantum Error Mitigation
+Authors: Haoran Liao, Derek S. Wang, Iskandar Sitdikov, Ciro Salcedo, Alireza Seif, Zlatko K. Minev
+Date: 2023-09-29T16:17:12Z
+Abstract:   Quantum computers are actively competing to surpass classical supercomputers,
+but quantum errors remain their chief obstacle. The key to overcoming these on
+near-term devices has emerged through the field of quantum error mitigation,
+enabling improved accuracy at the cost of additional runtime. In practice,
+however, the success of mitigation is limited by a generally exponential
+overhead. Can classical machine learning address this challenge on today's
+quantum computers? Here, through both simulations and experiments on
+state-of-the-art quantum computers using up to 100 qubits, we demonstrate that
+machine learning for quantum error mitigation (ML-QEM) can drastically reduce
+overheads, maintain or even surpass the accuracy of conventional methods, and
+yield near noise-free results for quantum algorithms. We benchmark a variety of
+machine learning models -- linear regression, random forests, multi-layer
+perceptrons, and graph neural networks -- on diverse classes of quantum
+circuits, over increasingly complex device-noise profiles, under interpolation
+and extrapolation, and for small and large quantum circuits. These tests employ
+the popular digital zero-noise extrapolation method as an added reference. We
+further show how to scale ML-QEM to classically intractable quantum circuits by
+mimicking the results of traditional mitigation results, while significantly
+reducing overhead. Our results highlight the potential of classical machine
+learning for practical quantum computation.

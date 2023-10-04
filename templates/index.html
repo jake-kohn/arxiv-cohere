@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="{{ url_for('static', filename='styles.css') }}"
+    />
+    <title>ArXiv Query</title>
+  </head>
+  <body>
+    <div class="container">
+      <h2>ArXiv Query System</h2>
+      <form id="query-form" action="/query" method="post">
+        <label for="user_input">Enter your query:</label>
+        <input type="text" id="user_input" name="user_input" />
+        <input type="submit" value="Submit" />
+        <button type="button" id="suggestion" class="suggestion-btn">
+          Tell me about a recent article in physics
+        </button>
+      </form>
+      <h3>Results:</h3>
+      <div class="spinner-container">
+        <div class="spinner"></div>
+      </div>
+      <div id="results-box">
+        <p id="results-placeholder">The answer will appear here.</p>
+      </div>
+    </div>
+    <script>
+      document
+        .getElementById("query-form")
+        .addEventListener("submit", function (event) {
+          event.preventDefault();
+          const formData = new FormData(this);
+          document.querySelector(".spinner").style.display = "inline-block";
+          fetch("/query", {
+            method: "POST",
+            body: formData,
+          })
+            .then((response) => response.json())
+            .then((data) => {
+              document.querySelector(".spinner").style.display = "none";
+              document.getElementById("results-placeholder").innerHTML =
+                data.response;
+            })
+            .catch((error) => {
+              document.querySelector(".spinner").style.display = "none";
+              document.getElementById("results-placeholder").textContent =
+                "An error occurred.";
+            });
+        });
+      document
+        .getElementById("suggestion")
+        .addEventListener("click", function (event) {
+          event.preventDefault();
+          document.getElementById("user_input").value =
+            "Tell me about a recent article in physics";
+        });
+    </script>
+  </body>
+</html>
